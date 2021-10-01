@@ -18,12 +18,12 @@ In this first hands-on lab you will access Qwiklabs and the Google Cloud Platfor
 In this hands-on lab, you’ll learn how to create a Google Compute Engine virtual machine and understand zones, regions, and machine types. To preview, watch the short video Create a Virtual Machine, GCP Essentials.
 
 
-- [ ] Getting Started with Cloud Shell and gcloud - GSP002
+- [x] Getting Started with Cloud Shell and gcloud - GSP002
 
 In this hands-on lab you will learn how to connect to computing resources hosted on Google Cloud Platform via the web. You will also learn how to use Cloud Shell and the Cloud SDK gcloud command. For a preview, watch the short video Get Started with Cloud Shell, GCP Essentials.
 
 
-- [ ] Kubernetes Engine: Qwik Start
+- [ ] Kubernetes Engine: Qwik Start - GSP100
 
 Google Kubernetes Engine provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. This hands-on lab shows you how deploy a containerized application with Kubernetes Engine. Watch the short video Manage Containerized Apps with Kubernetes Engine.
 
