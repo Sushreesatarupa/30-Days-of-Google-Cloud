@@ -4,7 +4,7 @@ Create Qwiklabs account - https://www.qwiklabs.com/
 
 # Track 1: Cloud Engineering Track
 
-1. **Skill Badge: Getting Started: Create and Manage Cloud Resources**
+1. ** [ ] Skill Badge: Getting Started: Create and Manage Cloud Resources**
 
 - [x] A Tour of Qwiklabs and Google Cloud - GSP282
 
