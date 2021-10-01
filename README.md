@@ -13,7 +13,7 @@ In this first hands-on lab you will access Qwiklabs and the Google Cloud Platfor
   - Explored google cloud console
   - Enabled Dialog flow
 
-- [ ] Creating a Virtual Machine
+- [x] Creating a Virtual Machine
 
 In this hands-on lab, you’ll learn how to create a Google Compute Engine virtual machine and understand zones, regions, and machine types. To preview, watch the short video Create a Virtual Machine, GCP Essentials.
 
