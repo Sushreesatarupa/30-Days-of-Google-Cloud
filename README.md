@@ -18,11 +18,6 @@ In this first hands-on lab you will access Qwiklabs and the Google Cloud Platfor
 In this hands-on lab, you’ll learn how to create a Google Compute Engine virtual machine and understand zones, regions, and machine types. To preview, watch the short video Create a Virtual Machine, GCP Essentials.
 
 
-- [ ] Compute Engine: Qwik Start - Windows
-
-Google Compute Engine lets you create and run virtual machines on Google infrastructure. In this lab you create a Windows Server instance in the Google Compute Engine and access it with RDP. Watch a short preview, Launch a Windows Server Instance, GCP Essentials.
-
-
 - [ ] Getting Started with Cloud Shell and gcloud
 
 In this hands-on lab you will learn how to connect to computing resources hosted on Google Cloud Platform via the web. You will also learn how to use Cloud Shell and the Cloud SDK gcloud command. For a preview, watch the short video Get Started with Cloud Shell, GCP Essentials.
