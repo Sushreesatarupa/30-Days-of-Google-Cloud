@@ -1,19 +1,17 @@
 # 30-Days-of-Google-Cloud
 
-1) Create Qwiklabs account - https://www.qwiklabs.com/
-2) GSP282 - A Tour of Qwiklabs and Google Cloud
-  - Created account on google cloud console - https://console.cloud.google.com/
-  - Explored google cloud console
-  - Enabled Dialog flow
+Create Qwiklabs account - https://www.qwiklabs.com/
 
 # Track 1: Cloud Engineering Track
 
 1. **Skill Badge: Getting Started: Create and Manage Cloud Resources**
 
-- [ ] A Tour of Qwiklabs and Google Cloud
+- [x] A Tour of Qwiklabs and Google Cloud - GSP282
 
 In this first hands-on lab you will access Qwiklabs and the Google Cloud Platform Console and use the basic GCP features: Projects, Resources, IAM Users, Roles, Permissions, APIs, and Cloud Shell.
-
+  - Created account on google cloud console - https://console.cloud.google.com/
+  - Explored google cloud console
+  - Enabled Dialog flow
 
 - [ ] Creating a Virtual Machine
 
