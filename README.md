@@ -13,12 +13,12 @@ In this first hands-on lab you will access Qwiklabs and the Google Cloud Platfor
   - Explored google cloud console
   - Enabled Dialog flow
 
-- [x] Creating a Virtual Machine
+- [x] Creating a Virtual Machine- GSP001
 
 In this hands-on lab, you’ll learn how to create a Google Compute Engine virtual machine and understand zones, regions, and machine types. To preview, watch the short video Create a Virtual Machine, GCP Essentials.
 
 
-- [ ] Getting Started with Cloud Shell and gcloud
+- [ ] Getting Started with Cloud Shell and gcloud - GSP002
 
 In this hands-on lab you will learn how to connect to computing resources hosted on Google Cloud Platform via the web. You will also learn how to use Cloud Shell and the Cloud SDK gcloud command. For a preview, watch the short video Get Started with Cloud Shell, GCP Essentials.
 
