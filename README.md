@@ -28,7 +28,7 @@ In this hands-on lab you will learn how to connect to computing resources hosted
 Google Kubernetes Engine provides a managed environment for deploying, managing, and scaling your containerized applications using Google infrastructure. This hands-on lab shows you how deploy a containerized application with Kubernetes Engine. Watch the short video Manage Containerized Apps with Kubernetes Engine.
 
 
-- [ ] Set Up Network and HTTP Load Balancers
+- [x] Set Up Network and HTTP Load Balancers
 
 In this hands-on lab, you'll learn how setup both network load balancers and HTTP load balancers for your application running in Compute Engine virtual machines.
 
