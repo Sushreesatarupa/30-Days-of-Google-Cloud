@@ -33,7 +33,7 @@ Google Kubernetes Engine provides a managed environment for deploying, managing,
 In this hands-on lab, you'll learn how setup both network load balancers and HTTP load balancers for your application running in Compute Engine virtual machines.
 
 
-- [ ] Create and Manage Cloud Resources: Challenge Lab
+- [ ] Create and Manage Cloud Resources: Challenge Lab - GSP313
 
 This challenge lab tests your skills and knowledge from the labs in the Create and Manage Cloud Resources quest. You should be familiar with the content of the labs before attempting this lab.
 
